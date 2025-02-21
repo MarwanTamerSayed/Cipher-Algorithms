@@ -2,11 +2,11 @@
 CipherAlgorithms is a Java-based encryption and decryption tool that implements multiple cipher techniques, including both classical and modern encryption algorithms. The program provides a user-friendly CLI interface to encrypt and decrypt text using various methods.
 
 ### ✨ Features
-Caesar Cipher – Simple shift-based encryption.
-Vigenère Cipher – Keyword-based encryption.
-AES Encryption (Advanced Encryption Standard) – Strong symmetric encryption.
-Morse Code Cipher – Text-to-Morse and Morse-to-text conversion.
-ChaCha20 Encryption – Modern, fast, and secure stream cipher.
+1) Caesar Cipher – Simple shift-based encryption.
+2) Vigenère Cipher – Keyword-based encryption.
+3) AES Encryption (Advanced Encryption Standard) – Strong symmetric encryption.
+4) Morse Code Cipher – Text-to-Morse and Morse-to-text conversion.
+5) ChaCha20 Encryption – Modern, fast, and secure stream cipher.
 
 ### 🔧 How It Works
 The program allows users to:
